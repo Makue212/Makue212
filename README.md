@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any security related pojects
 - 📫 How to reach me my giuthub  
 - 😄 Pronouns: ...Awesome  
-- ⚡ Fun fact: ...why is Darkness spelled with a K not a C : cause u cant C in the dark
+- ⚡ Fun fact: 
 
 <!---
 Makue212/Makue212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
