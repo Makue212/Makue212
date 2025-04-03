@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Makue212
-- 👀 I’m interested in coding and ML developments  
-- 🌱 I’m currently learning ...ML  
+- 👀 Webdesigner , Dev and Deployment management
+- 🌱 I’m currently discovering power of AI and ML algos 
 - 💞️ I’m looking to collaborate on any security related pojects
-- 📫 How to reach me my giuthub  
-- 😄 Pronouns: ...Awesome  
+- 📫 How to reach me my giuthub   
 - ⚡ Fun fact: 
 
 <!---
